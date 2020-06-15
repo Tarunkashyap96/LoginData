@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alice</item>
+        <item>@font/allan</item>
+        <item>@font/antic</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/arimo_bold_italic</item>
+        <item>@font/averia_libre_light</item>
+        <item>@font/bangers</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/bungee</item>
+        <item>@font/cutive</item>
+    </array>
+</resources>

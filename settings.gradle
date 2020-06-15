@@ -1,0 +1,2 @@
+rootProject.name='Login Data'
+include ':app'
